@@ -43,7 +43,7 @@ Reloaded provides a template to allow for a quick start with mod development.
 
 To install the template, run the following command:  
 ```
-dotnet new -i Reloaded.Mod.Templates
+dotnet new install Reloaded.Mod.Templates
 ```
 
 Once installation is complete, you should see a dialog that looks like this upon success:  
